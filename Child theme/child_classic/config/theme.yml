@@ -1,0 +1,6 @@
+parent: classic
+name: Customization
+display_name: Autorskie zmiany
+version: 1.0.3
+assets:
+  use_parent_assets: false

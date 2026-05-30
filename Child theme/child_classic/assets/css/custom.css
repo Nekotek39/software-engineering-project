@@ -1,0 +1,31 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+.carousel-inner{
+    height:auto !important;
+}
+body{
+    font: Optima, sans-serif !important;
+}
+#wrapper{
+    background: #ebebeb !important;
+}
+#Shape{
+    fill: rgb(71, 71, 71) !important;
+}
+.step-number{
+    color: rgb(71, 71, 71) !important;
+}
+.discount{
+    background-color: #E43A48 !important;
+}
+.wishlist-button-add > .material-icons{
+    color: #E22837 !important;
+}
+.block-cart, .btn, .btn-primary, .cart-preview{
+    background-color: #474747 !important;
+}
+.btn.btn-touchspin{
+    color:white !important;
+}
